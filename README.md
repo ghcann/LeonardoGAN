@@ -3,7 +3,7 @@ A Leonardeschi Generative Adversarial Network for paintings.
 LeonardoGAN; a StyleGan2 model for Leonardo da Vinci and paintings Leonardeschi.
 
 1. LeonardoGAN grid of 480 256x256 pixel fake paintings.
-![Teaser image](./images/grid.jpg)
+![Teaser image](./images/LeonardoGAN_fakes-min.jpg)
 
 LeonardoGAN is a StyleGAN2 generative adversarial  network trained on an augented dataset of 225 Leonardeschi paintings. LeonardoGAN, through StyleGAN2, offers the possibility generating a very large synthetic database of Leonardeschi paintings.
 
