@@ -29,7 +29,7 @@ For more information visit: https://github.com/NVlabs/stylegan2.
 225 1024X1024  have been cleaned for compatibility with StyleGAN2, see above image. All images have been cropped to person centre and rescaled to 256x256, 512x512 and 1024x1024. 
 
 4. The average 1024x1024 Leonardeschi painting. 
-![Teaser image](./images/average.jpg)
+![Teaser image](./images/LeonardoGAN-average.jpg)
 
 The average 1024x1024 Leonardeschi painting reveals the primary position of figures. 
 
